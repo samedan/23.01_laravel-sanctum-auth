@@ -1,3 +1,9 @@
+## Source 
+https://www.youtube.com/watch?v=MT-GJQIY3EU&t=1438s&ab_channel=TraversyMedia
+
+## This Git
+https://github.com/samedan/23.01_laravel-sanctum-auth
+
 
 ## Create model and Migration
 php artisan make:model Product --migration
